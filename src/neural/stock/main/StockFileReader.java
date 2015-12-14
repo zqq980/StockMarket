@@ -27,10 +27,6 @@ import java.util.Set;
 
 import util.stdlib.In;
 
-/**
- *
- * @author Dr.V.Steinhauer
- */
 public class StockFileReader {
 
     private int maxCounter;
@@ -176,6 +172,5 @@ public class StockFileReader {
         }      
         //System.out.println("valuesRow.length=" + valuesRow.length);
     }
-    
     
 }
